@@ -1,4 +1,6 @@
 # Culture.Quest
+Nicole Price Torrejón - u201921559 - Examen Final IHC - SI42
+
 ## Las heurísticas utilizadas son las siguientes:
 1. Findable: Los usuarios que pueden encontrar las tres dimensiones ONG  de manera fácil, gracias al encabezado.
 2. Usable: Los usuarios pueden realizar varias llamadas a los segmentos del sitio web.
